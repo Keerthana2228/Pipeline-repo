@@ -2,7 +2,7 @@ trigger: none
 
 pr: none
 
-pool: "linux-self-hosted-agent-pool"
+pool: "self-hosted-agent-pool"
 
 steps:
   - script: echo Hello, world!
